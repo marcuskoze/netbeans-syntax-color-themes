@@ -5,4 +5,4 @@ This is a constant struggle of mine to achieve a "close-to-perfect" syntax highl
 
 ## PleasantBlues
 * PHP screenshot
-* ![PleasantBlues theme - PHP demo](/screenshots/pleasant-blues/php.png)
+* ![PleasantBlues theme - PHP demo](/images/PleasantBlues/php.png)

@@ -1,4 +1,4 @@
-# Netbeans syntax highlight themes
+# Netbeans syntax highlight themes (color schemes)
 Syntax highlight themes for Netbeans that I made along the years.
 ## Goals
 This is a constant struggle of mine to achieve an acceptable balance between clearly emphasizing code elements *and* avoiding eye fatigue over the course of a day of work.
@@ -15,7 +15,7 @@ The font I use is [Bitstream Vera Sans Mono](http://ftp.gnome.org/pub/GNOME/sour
 3. In the popup that appears, use the `Import Source...` file selector to browse for the downloaded archive. Once loaded, the `Select Options for Import` selector below should present the available options (in our case, the `Fonts & Colors` with the name of the theme under it). If not already checked, do check the theme name to import the syntax highlight colors.
 4. Click `Ok` to finish importing the theme. Enjoy!
 
-## The themes
+## Syntax highlight preview
 ### PleasantBlues
 *PHP*
 ![PleasantBlues theme - PHP demo](/images/PleasantBlues/php.png)

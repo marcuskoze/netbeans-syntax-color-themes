@@ -15,7 +15,7 @@ The font I use is [Bitstream Vera Sans Mono](http://ftp.gnome.org/pub/GNOME/sour
 3. In the popup that appears, use the `Import Source...` file selector to browse for the downloaded archive. Once loaded, the `Select Options for Import` selector below should present the available options (in our case, the `Fonts & Colors` with the name of the theme under it). If not already checked, do check the theme name to import the syntax highlight colors.
 4. Click `Ok` to finish importing the theme. Enjoy!
 
-## Syntax highlight preview
+## Syntax highlight colors preview
 ### PleasantBlues
 *PHP*
 ![PleasantBlues theme - PHP demo](/images/PleasantBlues/php.png)
